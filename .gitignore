@@ -1,0 +1,9 @@
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+
+# Local Python caches
+__pycache__/
+*.py[cod]

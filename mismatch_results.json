@@ -1,0 +1,72 @@
+[
+  {
+    "seed": 200,
+    "never": 38.5,
+    "assumed_08_true_08": 41.99000000000001,
+    "assumed_08_true_06": 37.13499999999996,
+    "assumed_06_true_06": 39.00000000000001
+  },
+  {
+    "seed": 201,
+    "never": 48.46875,
+    "assumed_08_true_08": 51.44374999999998,
+    "assumed_08_true_06": 49.07500000000001,
+    "assumed_06_true_06": 49.301249999999996
+  },
+  {
+    "seed": 202,
+    "never": 37.21875,
+    "assumed_08_true_08": 37.363749999999996,
+    "assumed_08_true_06": 36.86749999999999,
+    "assumed_06_true_06": 37.21875
+  },
+  {
+    "seed": 203,
+    "never": 40.5,
+    "assumed_08_true_08": 41.785,
+    "assumed_08_true_06": 40.94000000000001,
+    "assumed_06_true_06": 40.97
+  },
+  {
+    "seed": 204,
+    "never": 27.625,
+    "assumed_08_true_08": 28.007500000000018,
+    "assumed_08_true_06": 27.139374999999994,
+    "assumed_06_true_06": 27.625
+  },
+  {
+    "seed": 205,
+    "never": 35.0,
+    "assumed_08_true_08": 37.77375000000002,
+    "assumed_08_true_06": 35.75125,
+    "assumed_06_true_06": 36.053749999999994
+  },
+  {
+    "seed": 206,
+    "never": 27.1875,
+    "assumed_08_true_08": 30.19375000000001,
+    "assumed_08_true_06": 27.499999999999996,
+    "assumed_06_true_06": 28.03125
+  },
+  {
+    "seed": 207,
+    "never": 38.0,
+    "assumed_08_true_08": 38.0,
+    "assumed_08_true_06": 38.0,
+    "assumed_06_true_06": 38.0
+  },
+  {
+    "seed": 208,
+    "never": 24.5,
+    "assumed_08_true_08": 28.39750000000001,
+    "assumed_08_true_06": 25.09625000000002,
+    "assumed_06_true_06": 25.096249999999998
+  },
+  {
+    "seed": 209,
+    "never": 24.0,
+    "assumed_08_true_08": 24.0,
+    "assumed_08_true_06": 24.0,
+    "assumed_06_true_06": 24.0
+  }
+]

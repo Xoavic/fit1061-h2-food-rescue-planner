@@ -1,0 +1,74 @@
+{
+  "policy": "never-ask",
+  "scene_count": 50,
+  "distance_rule": "nearest two central, farthest two remote",
+  "pickups": [
+    {
+      "pickup": 0,
+      "cell": [
+        3,
+        7
+      ],
+      "distance_from_depot": 12,
+      "group": "central",
+      "on_time_probability": 0.805625,
+      "late_probability": 0.19437499999999996,
+      "omniscient_on_time_probability": 0.8315625,
+      "on_time_gap_from_never_to_omniscient": 0.025937499999999947
+    },
+    {
+      "pickup": 1,
+      "cell": [
+        9,
+        7
+      ],
+      "distance_from_depot": 16,
+      "group": "central",
+      "on_time_probability": 0.92875,
+      "late_probability": 0.07125000000000004,
+      "omniscient_on_time_probability": 0.9553125,
+      "on_time_gap_from_never_to_omniscient": 0.026562500000000044
+    },
+    {
+      "pickup": 2,
+      "cell": [
+        15,
+        15
+      ],
+      "distance_from_depot": 34,
+      "group": "remote",
+      "on_time_probability": 0.1584375,
+      "late_probability": 0.8415625,
+      "omniscient_on_time_probability": 0.3928125,
+      "on_time_gap_from_never_to_omniscient": 0.234375
+    },
+    {
+      "pickup": 3,
+      "cell": [
+        7,
+        13
+      ],
+      "distance_from_depot": 22,
+      "group": "remote",
+      "on_time_probability": 0.7734375,
+      "late_probability": 0.2265625,
+      "omniscient_on_time_probability": 0.8103125,
+      "on_time_gap_from_never_to_omniscient": 0.03687499999999999
+    }
+  ],
+  "groups": {
+    "central": {
+      "pickup_count": 2,
+      "mean_on_time_probability": 0.8671875,
+      "mean_late_probability": 0.1328125,
+      "mean_omniscient_on_time_probability": 0.8934375
+    },
+    "remote": {
+      "pickup_count": 2,
+      "mean_on_time_probability": 0.4659375,
+      "mean_late_probability": 0.5340625,
+      "mean_omniscient_on_time_probability": 0.6015625
+    }
+  },
+  "omniscient_note": "The omniscient policy maximises total rescued value; it is used as a diagnostic upper-bound comparison, not as a fairness policy."
+}

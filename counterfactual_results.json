@@ -1,0 +1,158 @@
+{
+  "218": {
+    "primary": {
+      "h1": 43.737500000000026,
+      "h2": 44.68750000000002,
+      "h2_minus_h1": 0.9499999999999957,
+      "h1_action": [
+        "ask",
+        1
+      ],
+      "h2_action": [
+        "ask",
+        2
+      ]
+    },
+    "perfect_advisor": {
+      "h1": 44.6875,
+      "h2": 46.0,
+      "h2_minus_h1": 1.3125,
+      "h1_action": [
+        "ask",
+        0
+      ],
+      "h2_action": [
+        "ask",
+        2
+      ]
+    },
+    "no_questions": {
+      "h1": 41.75,
+      "h2": 41.75,
+      "h2_minus_h1": 0.0,
+      "h1_action": [
+        "act"
+      ],
+      "h2_action": [
+        "act"
+      ]
+    }
+  },
+  "201": {
+    "primary": {
+      "h1": 51.44374999999998,
+      "h2": 52.378750000000004,
+      "h2_minus_h1": 0.9350000000000236,
+      "h1_action": [
+        "ask",
+        5
+      ],
+      "h2_action": [
+        "act-to-next",
+        1
+      ]
+    },
+    "perfect_advisor": {
+      "h1": 55.0,
+      "h2": 55.0,
+      "h2_minus_h1": 0.0,
+      "h1_action": [
+        "ask",
+        1
+      ],
+      "h2_action": [
+        "ask",
+        1
+      ]
+    },
+    "no_questions": {
+      "h1": 48.46875,
+      "h2": 48.46875,
+      "h2_minus_h1": 0.0,
+      "h1_action": [
+        "act"
+      ],
+      "h2_action": [
+        "act"
+      ]
+    }
+  },
+  "212": {
+    "primary": {
+      "h1": 22.125,
+      "h2": 22.520000000000003,
+      "h2_minus_h1": 0.3950000000000031,
+      "h1_action": [
+        "ask",
+        4
+      ],
+      "h2_action": [
+        "act-to-next",
+        1
+      ]
+    },
+    "perfect_advisor": {
+      "h1": 25.1875,
+      "h2": 25.5,
+      "h2_minus_h1": 0.3125,
+      "h1_action": [
+        "ask",
+        2
+      ],
+      "h2_action": [
+        "act-to-next",
+        1
+      ]
+    },
+    "no_questions": {
+      "h1": 18.3125,
+      "h2": 18.3125,
+      "h2_minus_h1": 0.0,
+      "h1_action": [
+        "act"
+      ],
+      "h2_action": [
+        "act"
+      ]
+    }
+  },
+  "248": {
+    "primary": {
+      "h1": 32.52500000000001,
+      "h2": 32.88125000000001,
+      "h2_minus_h1": 0.35624999999999574,
+      "h1_action": [
+        "ask",
+        5
+      ],
+      "h2_action": [
+        "ask",
+        5
+      ]
+    },
+    "perfect_advisor": {
+      "h1": 36.0625,
+      "h2": 36.0625,
+      "h2_minus_h1": 0.0,
+      "h1_action": [
+        "ask",
+        0
+      ],
+      "h2_action": [
+        "ask",
+        0
+      ]
+    },
+    "no_questions": {
+      "h1": 30.875,
+      "h2": 30.875,
+      "h2_minus_h1": 0.0,
+      "h1_action": [
+        "act"
+      ],
+      "h2_action": [
+        "act"
+      ]
+    }
+  }
+}

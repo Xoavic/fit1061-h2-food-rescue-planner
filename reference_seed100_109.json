@@ -1,0 +1,158 @@
+[
+  {
+    "seed": 100,
+    "never": 48.0,
+    "always": 48.0,
+    "h1_value": 48.0,
+    "h1_action": [
+      "act"
+    ],
+    "h2_value": 48.0,
+    "h2_action": [
+      "act"
+    ],
+    "omniscient": 49.75
+  },
+  {
+    "seed": 101,
+    "never": 32.4375,
+    "always": 32.822500000000005,
+    "h1_value": 33.80625,
+    "h1_action": [
+      "ask",
+      3
+    ],
+    "h2_value": 33.80625,
+    "h2_action": [
+      "ask",
+      3
+    ],
+    "omniscient": 36.5625
+  },
+  {
+    "seed": 102,
+    "never": 43.75,
+    "always": 42.900000000000006,
+    "h1_value": 44.2175,
+    "h1_action": [
+      "ask",
+      4
+    ],
+    "h2_value": 44.2175,
+    "h2_action": [
+      "ask",
+      4
+    ],
+    "omniscient": 46.0625
+  },
+  {
+    "seed": 103,
+    "never": 37.0,
+    "always": 37.0,
+    "h1_value": 37.0,
+    "h1_action": [
+      "act"
+    ],
+    "h2_value": 37.0,
+    "h2_action": [
+      "act"
+    ],
+    "omniscient": 39.25
+  },
+  {
+    "seed": 104,
+    "never": 39.0,
+    "always": 39.0,
+    "h1_value": 47.0,
+    "h1_action": [
+      "ask",
+      0
+    ],
+    "h2_value": 47.0,
+    "h2_action": [
+      "ask",
+      0
+    ],
+    "omniscient": 49.625
+  },
+  {
+    "seed": 105,
+    "never": 36.125,
+    "always": 41.2,
+    "h1_value": 42.325,
+    "h1_action": [
+      "ask",
+      1
+    ],
+    "h2_value": 42.325,
+    "h2_action": [
+      "ask",
+      1
+    ],
+    "omniscient": 45.75
+  },
+  {
+    "seed": 106,
+    "never": 34.25,
+    "always": 34.25,
+    "h1_value": 35.53125,
+    "h1_action": [
+      "ask",
+      0
+    ],
+    "h2_value": 35.53125,
+    "h2_action": [
+      "ask",
+      0
+    ],
+    "omniscient": 37.84375
+  },
+  {
+    "seed": 107,
+    "never": 34.0625,
+    "always": 33.9375,
+    "h1_value": 37.2625,
+    "h1_action": [
+      "ask",
+      0
+    ],
+    "h2_value": 37.275000000000006,
+    "h2_action": [
+      "ask",
+      1
+    ],
+    "omniscient": 40.90625
+  },
+  {
+    "seed": 108,
+    "never": 17.125,
+    "always": 19.021250000000002,
+    "h1_value": 19.88375,
+    "h1_action": [
+      "ask",
+      1
+    ],
+    "h2_value": 19.88375,
+    "h2_action": [
+      "ask",
+      1
+    ],
+    "omniscient": 25.359375
+  },
+  {
+    "seed": 109,
+    "never": 37.0,
+    "always": 37.0,
+    "h1_value": 37.63,
+    "h1_action": [
+      "ask",
+      2
+    ],
+    "h2_value": 37.63,
+    "h2_action": [
+      "ask",
+      2
+    ],
+    "omniscient": 39.625
+  }
+]
